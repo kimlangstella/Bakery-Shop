@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 const Herosection = () => {
   return (
-    <div className="relative mt-9">
+    <div className="relative mt-12">
       <div className="relative">
         <img src="/backery/Cupcake.png" alt="Cupcake" />
       </div>

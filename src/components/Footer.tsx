@@ -3,7 +3,7 @@ import { Typography } from "./typography";
 
 const Footer = () => {
   const handleBackToTop = () => {
-    window.scrollTo({ top: 0, behavior: "smooth" }); // Scrolls to the top of the page smoothly
+    window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
   return (
