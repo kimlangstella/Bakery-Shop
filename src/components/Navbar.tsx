@@ -22,7 +22,7 @@ const Navbar = () => {
           </ul>
         </div>
         <div className="flex justify-center items-center">
-  <button className="p-3 w-[146px]  bg-[#D95252] text-white rounded-[32px] hover:bg-[#b43e3e] transition duration-300">
+  <button className="p-3 w-[146px]  bg-[#D95275] text-white rounded-[32px] hover:bg-[#b43e3e] transition duration-300">
     Order Cake
   </button>
 </div>
